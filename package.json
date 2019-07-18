@@ -1,0 +1,20 @@
+{
+  "name": "figma-desktop",
+  "version": "1.0.0",
+  "description": "An electron wrapper for Figma",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "figma",
+    "electron",
+    "javascript"
+  ],
+  "author": "Efstathios Oikonomou <eusoikonomou@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.7"
+  }
+}
